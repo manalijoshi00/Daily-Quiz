@@ -1,0 +1,35 @@
+                                  Test-1
+
+Answers
+
+Q 1: C.public void myMethod();
+Q 2: A.The program leads to compilation error.
+Q 3: C.The program will not compile due to invaild declaration of integer variable arguments.
+Q 4: B.The program will lead to compilation error as the enum Students is declared outside the class.
+Q 5: B.The program will lead to compile time error as explicit casting is required in the line, b = b+10.
+Q 6: C.The program will compile successfully and execute displaying 1 and 201 as output.
+Q 7: C.arr1 = arr2;
+Q 8: B.The program will lead to compile time error.
+Q 9: A.int num1, num2, num3; num1 = num2= num3= 10;
+Q 10: A.You can mark the name variable as private.
+Q 11: B. The class A and B both must be within the same package.
+Q 12: C. By default the variable is accessible within the same class and subclass of the super class.
+Q 13: C.public static void main(String args[]) {....}
+Q 14: D.The program will compile successfully but it will not display anything.
+Q 15: B.private> default(within the package)> protected> public
+Q 16: D.String
+Q 17: C.abstract class Vehicle { abstract void move(); }
+Q 18: A.The program compiles successfully and displays “Welcome to the outer class 100 200” as output.
+Q 19: A.The program will lead to compilation errors as static variables cannot be declared within methods.
+Q 20: B.The program will lead to compilation error as the non‐static variables cannot be referenced from a static
+Q 21: D.The program will lead to compilation error at Vehicle v = new Car();
+Q 22: A.The program will display “Int value is: 30 Byte value is: 3” as output.
+Q 23: B.The program will lead to compilation error.
+Q 24: C.The program will compile successfully but lead to runtime exception.
+Q 25: A. The program will lead to compilation error.
+Q 26: B.The program will lead to compilation error in the line for(MyEnum en: MyEnum.values())
+Q 27: C. The program will lead to compile time error as the String variable str is not assigned a value.
+Q 28: C.The program will lead to compilation error.
+Q 29: B.The program will lead to compilation error.
+Q 30: A.getName()
+
